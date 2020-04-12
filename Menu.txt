@@ -1,0 +1,6 @@
+Pizzaria:
+Versao: 
+Operador:
+
+Telefone:
+Cliente:
