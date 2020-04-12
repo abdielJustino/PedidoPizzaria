@@ -4,7 +4,7 @@ Operador:
 
 Telefone:
 Cliente:
-CPF:
+CPF: 01
 E-mail:
 
 Aceita participar de promoções:? ( )Sim ( )Não
