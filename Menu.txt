@@ -1,5 +1,5 @@
-Pizzaria:
-Versao: 
+Pizzaria: Pizza Alegre
+Versao: 001
 Operador:
 
 Telefone:
